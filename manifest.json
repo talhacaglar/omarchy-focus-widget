@@ -2,10 +2,10 @@
   "schemaVersion": 1,
   "id": "omarchy-focus",
   "name": "Omarchy Focus",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "author": "Talha Caglar",
   "license": "MIT",
-  "description": "Pomodoro timer, task queue and site blocker in the Omarchy bar. Needs the omarchy-focus CLI (AUR).",
+  "description": "Pomodoro timer, task queue and site blocker in the Omarchy bar. Needs the omarchy-focus CLI 0.2.5+ (AUR).",
   "kinds": [
     "bar-widget"
   ],

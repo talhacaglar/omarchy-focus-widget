@@ -32,7 +32,7 @@ Your tasks and history stay in `~/.local/share/omarchy-focus/` until you delete 
 ## Requirements
 
 - Omarchy 4 (Omarchy Shell)
-- the [`omarchy-focus`](https://github.com/talhacaglar/omarchy-focus) CLI (AUR), which also provides the site guard; the guard asks for your password through Omarchy's polkit dialog
+- the [`omarchy-focus`](https://github.com/talhacaglar/omarchy-focus) CLI 0.2.5 or newer (AUR), which also provides the site guard; the guard asks for your password through Omarchy's polkit dialog
 - license: MIT
 
 ## Use
