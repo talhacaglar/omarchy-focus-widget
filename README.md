@@ -1,5 +1,7 @@
 # Omarchy Focus widget
 
+> **This is a read-only mirror.** The widget is part of **[Omarchy Focus](https://github.com/talhacaglar/omarchy-focus)**, a pomodoro timer, task queue and site blocker with a TUI and CLI. If you like it, please star the main project: **[⭐ talhacaglar/omarchy-focus](https://github.com/talhacaglar/omarchy-focus)**.
+
 Bar widget for [Omarchy Focus](https://github.com/talhacaglar/omarchy-focus): a live pomodoro countdown in the bar, with a panel for tasks, break controls, the site guard, a daily goal, and a 12-week heatmap. It follows your Omarchy theme and updates through inotify, without polling.
 
 ![demo](screenshots/demo.gif)
